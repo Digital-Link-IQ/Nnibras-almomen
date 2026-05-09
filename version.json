@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.0",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.2",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.nibrasalmomen.app",
-  "forceUpdate":true,
+  "forceUpdate":false,
   "updateMessage": "يتوفر إصدار جديد من تطبيق نبراس المؤمن، يُنصح بالتحديث للاستفادة من أحدث الميزات."
 }
