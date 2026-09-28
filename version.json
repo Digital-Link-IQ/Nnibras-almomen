@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.3",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.0.7",
   "downloadUrl": "https://digital-link-iq.github.io/",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "updateMessage": "يتوفر إصدار جديد من تطبيق نبراس المؤمن، يُنصح بالتحديث للاستفادة من أحدث الميزات."
 }
